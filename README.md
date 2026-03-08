@@ -48,7 +48,14 @@ Amra nicher statistical formula-gulo diye rules validate korechi:
 
 ## 📂 Project Structure
 ```bash
-├── MBA- Market Basket Analysis/   # Analysis Notebooks
-├── data/                          # Raw and Processed Data
-├── README.md                      # Project Documentation
-└── requirements.txt               # Dependencies
+market-basket-analysis/
+├── data/
+│   └── kz.csv                   # Transactional Dataset
+├── notebooks/
+│   └── Untitled.ipynb           # Rename to: Analysis_Main.ipynb
+├── assets/
+│   └── market_basket_results.png # Analysis Charts/Visuals
+├── documentation/
+│   ├── MBA_Report_Advanced.docx  # Detailed Project Report
+│   └── MBA_Presentation_Advanced.pptx # Project Presentation
+└── README.md                    # Main Documentation
