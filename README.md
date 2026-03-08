@@ -41,9 +41,9 @@ To ensure the reliability of the discovered rules, I utilized three core metrics
 
 | Asset | Link | Format |
 | :--- | :--- | :--- |
-| **Analysis Notebook** | [🚀 Open Notebook](./notebooks/Analysis_Main.ipynb) | `.ipynb` |
-| **Technical Report** | [📂 Download Report](./documentation/MBA_Report_Advanced.docx) | `.docx` |
-| **Executive Presentation** | [📊 View Slides](./documentation/MBA_Presentation_Advanced.pptx) | `.pptx` |
+| **Analysis Notebook** | [🚀 Open Notebook](./notebooks/market_basket_analysis.ipynb) | `.ipynb` |
+| **Technical Report** | [📂 Download Report](./documentation/MBA_Report_Final.docx) | `.docx` |
+| **Executive Presentation** | [📊 View Slides](./documentation/MBA_Presentation_Final.pptx) | `.pptx` |
 | **Kaggle Dataset** | [📥 Download via Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store) | `External` |
 
 > **Note:** Due to the large file size (**259MB**), the `kz.csv` file is hosted externally on Kaggle.
@@ -59,12 +59,4 @@ market-basket-analysis/
 ├── notebooks/      # Clean, commented Jupyter Notebook (Analysis_Main.ipynb)
 └── README.md       # Project documentation
 ---
-
-## 🖼️ Visual Insights
-<p align="center">
-<b>Developed by Kazi Shakib</b>
-
-
-<i>Data Analytics Enthusiast & Digital Growth Strategist</i>
-</p>
 
