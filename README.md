@@ -32,8 +32,8 @@ This project focuses on uncovering hidden consumer purchasing patterns within a 
 ## 📈 Analysis Framework
 To ensure the reliability of the discovered rules, I utilized three core metrics:
 * **Support:** Measures the popularity of an itemset.
-* **Confidence:** Calculates the likelihood that item Y is purchased when item X is purchased.
-* **Lift:** Determines the strength of the association (Lift > 1 indicates a high positive correlation).
+* **Confidence:** Probability that item Y is purchased when item X is purchased.
+* **Lift:** Strength of the association (Lift > 1 indicates a high positive correlation).
 
 ---
 
@@ -41,22 +41,36 @@ To ensure the reliability of the discovered rules, I utilized three core metrics
 
 | Asset | Link | Format |
 | :--- | :--- | :--- |
-| **Analysis Notebook** | [🚀 Open Notebook](./notebooks/market_basket_analysis.ipynb) | `.ipynb` |
-| **Technical Report** | [📂 Download Report](./documentation/MBA_Report_Final.docx) | `.docx` |
-| **Executive Presentation** | [📊 View Slides](./documentation/MBA_Presentation_Final.pptx) | `.pptx` |
+| **Analysis Notebook** | [🚀 Open Notebook](./notebooks/Analysis_Main.ipynb) | `.ipynb` |
+| **Technical Report** | [📂 Download Report](./documentation/MBA_Report_Advanced.docx) | `.docx` |
+| **Executive Presentation** | [📊 View Slides](./documentation/MBA_Presentation_Advanced.pptx) | `.pptx` |
 | **Kaggle Dataset** | [📥 Download via Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store) | `External` |
 
 > **Note:** Due to the large file size (**259MB**), the `kz.csv` file is hosted externally on Kaggle.
 
 ---
 
+## 🖼️ Visual Insights
+
+<p align="center">
+  <img src="./market_basket_results.png" alt="Market Analysis Results" width="800">
+</p>
+
+<p align="center">
+  <b>Developed by Kazi Shakib</b> <br>
+  <i>Data Analytics Enthusiast & Digital Growth Strategist</i>
+</p>
+
+---
+
 ## 📂 Repository Structure
 ```bash
 market-basket-analysis/
-├── assets/         # High-resolution charts and visuals
-├── data/           # Dataset link and source information
-├── documentation/  # Professional reports and presentation decks
-├── notebooks/      # Clean, commented Jupyter Notebook (Analysis_Main.ipynb)
-└── README.md       # Project documentation
+├── assets/             # Project images and charts
+├── data/               # Dataset documentation
+├── documentation/      # Reports and presentations
+├── notebooks/          # Analysis_Main.ipynb
+└── README.md
+
 ---
 
