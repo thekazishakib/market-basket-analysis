@@ -59,3 +59,13 @@ market-basket-analysis/
 │   ├── MBA_Report_Advanced.docx  # Detailed Project Report
 │   └── MBA_Presentation_Advanced.pptx # Project Presentation
 └── README.md                    # Main Documentation
+
+## 📑 Project Resources
+
+| Resource | Action | Format |
+| :--- | :--- | :--- |
+| **Analysis Notebook** | [🚀 View Code](./notebooks/Market_Basket_Analysis.ipynb) | `.ipynb` |
+| **Comprehensive Report** | [📂 Download Report](./documentation/MBA_Report_Advanced.docx) | `.docx` |
+| **Executive Presentation** | [📊 View Slides](./documentation/MBA_Presentation_Advanced.pptx) | `.pptx` |
+| **Raw Dataset** | [📥 Download Data](./data/kz.csv) | `.csv` |
+| **Visual Insights** | [🖼️ View Chart](./assets/market_basket_results.png) | `.png` |
