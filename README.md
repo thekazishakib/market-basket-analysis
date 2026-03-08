@@ -50,19 +50,6 @@ To ensure the reliability of the discovered rules, I utilized three core metrics
 
 ---
 
-## 🖼️ Visual Insights
-
-<p align="center">
-  <img src="./market_basket_results.png" alt="Market Analysis Results" width="800">
-</p>
-
-<p align="center">
-  <b>Developed by Kazi Shakib</b> <br>
-  <i>Data Analytics Enthusiast & Digital Growth Strategist</i>
-</p>
-
----
-
 ## 📂 Repository Structure
 ```bash
 market-basket-analysis/
@@ -73,4 +60,3 @@ market-basket-analysis/
 └── README.md
 
 ---
-
